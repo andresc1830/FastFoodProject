@@ -10,14 +10,11 @@ El objetivo es analizar la relación entre las precipitaciones en Bogotá y las 
 - Librerías listadas en `requirements.txt`
 
 ## Instalación
-1. Clona este repositorio: `git clone <URL_DEL_REPOSITORIO>`
-2. Crea un entorno virtual (recomendado): `python -m venv venv` y actívalo.
-3. Instala las dependencias: `pip install -r requirements.txt`
+1. Clona este repositorio: `git clone https://github.com/andresc1830/FastFoodProject.git`
 
 ## Ejecución
 Ejecuta el script principal o el Notebook:
-`python tu_script_principal.py`
-o abre `tu_notebook.ipynb` en Jupyter Lab/Notebook.
+`python FastFood.ipynby`
 
 ## Resultados
-Los resultados del análisis y la evaluación del modelo se encuentran en [indicar dónde, ej., el Notebook o un PDF].
+Los resultados del análisis y la evaluación del modelo se encuentran en el archivo.
