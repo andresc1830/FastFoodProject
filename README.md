@@ -1,6 +1,6 @@
 # Prueba Técnica FastFood - Análisis de Ventas vs Lluvia
 
-Este repositorio contiene el análisis y modelo predictivo para la prueba técnica de FastFood.
+Este repositorio contiene el análisis y modelo predictivo para FastFood.
 
 ## Descripción
 El objetivo es analizar la relación entre las precipitaciones en Bogotá y las ventas de FastFood, y construir un modelo para predecir ventas basado en la lluvia.
